@@ -1,0 +1,12 @@
+.half-width{
+    padding: 2%;
+    width: 40%;
+    float: left;
+
+}
+span{
+    color: blueviolet;
+}
+.half-width img{
+    width: 100%;
+}
